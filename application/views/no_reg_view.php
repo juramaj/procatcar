@@ -1,0 +1,1 @@
+<img src="images/no_reg.png" alt="Вы уже зарегистрированы">

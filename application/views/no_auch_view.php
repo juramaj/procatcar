@@ -1,0 +1,1 @@
+<img src="images/no_auch.png" alt="Вы уже прошли авторизацию" />
